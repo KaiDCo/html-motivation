@@ -3,17 +3,14 @@ html{
 }
 h1{
     font-size: 3rem;
-    margin-left: 150px;
-}
-p{
-    margin-left: 100px;
 }
 .poster{
     color:white;
-    margin-left: 35%;
+    margin-left: 25%;
     margin-top: 5%;
     width: 50%;
     font-family: "Libre Baskerville", serif;
+    text-align: center;
 
 }
 img{
